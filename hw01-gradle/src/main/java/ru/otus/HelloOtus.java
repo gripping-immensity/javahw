@@ -16,7 +16,7 @@ public class HelloOtus {
 
         if (words.mightContain("yes")) {
             System.out.println("maybe");
-        } {
+        } else {
             System.out.println("definitely not");
         }
     }
